@@ -1,0 +1,1 @@
+web: gunicorn yoyocase.wsgi --log-file -
